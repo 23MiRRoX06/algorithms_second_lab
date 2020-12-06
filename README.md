@@ -23,6 +23,6 @@ Firstly, clone this repo on your computer
 git clone https://github.com/23MiRRoX06/ostap_koziaryk_sorting_algorithms_lab1 && cd ostap_koziaryk_sorting_algorithms_lab1/bin
 ```
 ```
-./main.exe 'Path to data file in CSV'
+./main.exe
 ```
 ---
